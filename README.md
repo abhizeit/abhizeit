@@ -24,7 +24,7 @@
 <p align="center">
 <img img width="60%" src="https://github-readme-stats.vercel.app/api?username=abhizeit&show_icons=true&count_private=true"  </img>  </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhizeit)  
+
 
 
 
