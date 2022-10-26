@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhijeet.</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet Kumar.</h1>
 <img align="right" width=500" height="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 <h3>A diligent and enthusiastic full-stack developer efficient in MERN stack. A creative self-starter and quick learner inclined towards building outcome-driven products.Looking for a role as a developer to enhance technical skills while working on challenging projects.</h3>
 
