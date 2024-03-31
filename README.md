@@ -21,9 +21,6 @@
 <p align="center"><img width="60%"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhizeit&show_icons=true&locale=en" alt="abhizeit" /></p>
 
 
-<p align="center">
-<img img width="60%" src="https://github-readme-stats.vercel.app/api?username=abhizeit&show_icons=true&count_private=true"  </img>  </p>
-
 
 
 
